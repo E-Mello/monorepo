@@ -1,0 +1,11 @@
+{
+  "private":"true",
+  "name": "monorepo",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "author": "Édio Melo <e.mello.dev@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "private": "true",
+  "name": "@packages/hello-world",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "react-native": "./src/index.ts",
+  "files": [
+    "build",
+    "src"
+  ],
+  "license": "MIT",
+  "author": "E-Mello <e.mello.dev@gmail.com"
+}
